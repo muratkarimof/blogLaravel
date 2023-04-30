@@ -19,7 +19,7 @@
         <div class="side">
             <h3 class="sidebar-heading">Recent Blog</h3>
             <div class="f-blog">
-                <a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
+                <a href="blog.html" class="blog-img" style="background-image: url(blogfront/images/blog-1.jpg);">
                 </a>
                 <div class="desc">
                     <p class="admin"><span>18 April 2018</span></p>
@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="f-blog">
-                <a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
+                <a href="blog.html" class="blog-img" style="background-image: url(blogfront/images/blog-2.jpg);">
                 </a>
                 <div class="desc">
                     <p class="admin"><span>18 April 2018</span></p>
@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="f-blog">
-                <a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);">
+                <a href="blog.html" class="blog-img" style="background-image: url(blogfront/images/blog-3.jpg);">
                 </a>
                 <div class="desc">
                     <p class="admin"><span>18 April 2018</span></p>

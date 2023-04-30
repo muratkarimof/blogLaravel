@@ -20,36 +20,36 @@
     <meta name="twitter:url" content="" />
     <meta name="twitter:card" content="" />
 
-    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
+    <link href="{{asset('blogfront/://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet')}}">
 
     <!-- Animate.css -->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/animate.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/animate.css')}}">
     <!-- Icomoon Icon Fonts-->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/icomoon.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/icomoon.css')}}">
     <!-- Bootstrap  -->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/bootstrap.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/bootstrap.css')}}">
 
     <!-- Magnific Popup -->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/magnific-popup.css')}}">
 
     <!-- Flexslider  -->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/flexslider.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/flexslider.css')}}">
 
     <!-- Owl Carousel -->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="{{asset('front/')}}/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{asset('blogfront/css/owl.theme.default.min.css')}}">
 
     <!-- Flaticons  -->
-    <link rel="stylesheet" href="{{asset('front/')}}/fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="{{asset('blogfront/fonts/flaticon/font/flaticon.css')}}">
 
     <!-- Theme style  -->
-    <link rel="stylesheet" href="{{asset('front/')}}/css/style.css">
+    <link rel="stylesheet" href="{{asset('blogfront/css/style.css')}}">
 
     <!-- Modernizr JS -->
-    <script src="{{asset('front/')}}/js/modernizr-2.6.2.min.js"></script>
+    <script src="{{asset('blogfront/js/modernizr-2.6.2.min.js')}}"></script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
-    <script src="{{asset('front/')}}/js/respond.min.js"></script>
+    <script src="{{asset('blogfront/js/respond.min.js')}}"></script>
     <![endif]-->
 
 </head>

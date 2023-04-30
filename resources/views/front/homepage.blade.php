@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="block-21 d-flex animate-box">
-                        <a href="#" class="blog-img" style="background-image: url(images/blog-1.jpg);"></a>
+                        <a href="#" class="blog-img" style="background-image: url(blogfront/images/blog-1.jpg);"></a>
                         <div class="text">
                             <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                             <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
@@ -18,7 +18,7 @@
                     </div>
 
                     <div class="block-21 d-flex animate-box">
-                        <a href="#" class="blog-img" style="background-image: url(images/blog-2.jpg);"></a>
+                        <a href="#" class="blog-img" style="background-image: url(blogfront/images/blog-2.jpg);"></a>
                         <div class="text">
                             <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                             <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
@@ -31,7 +31,7 @@
                     </div>
 
                     <div class="block-21 d-flex animate-box">
-                        <a href="#" class="blog-img" style="background-image: url(images/blog-3.jpg);"></a>
+                        <a href="#" class="blog-img" style="background-image: url(blogfront/images/blog-3.jpg);"></a>
                         <div class="text">
                             <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                             <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
@@ -44,7 +44,7 @@
                     </div>
 
                     <div class="block-21 d-flex animate-box">
-                        <a href="#" class="blog-img" style="background-image: url(images/blog-4.jpg);"></a>
+                        <a href="#" class="blog-img" style="background-image: url(blogfront/images/blog-4.jpg);"></a>
                         <div class="text">
                             <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                             <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
@@ -57,7 +57,7 @@
                     </div>
 
                     <div class="block-21 d-flex animate-box">
-                        <a href="#" class="blog-img" style="background-image: url(images/blog-5.jpg);"></a>
+                        <a href="#" class="blog-img" style="background-image: url(blogfront/images/blog-5.jpg);"></a>
                         <div class="text">
                             <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                             <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
@@ -70,7 +70,7 @@
                     </div>
 
                     <div class="block-21 d-flex animate-box">
-                        <a href="#" class="blog-img" style="background-image: url(images/blog-6.jpg);"></a>
+                        <a href="#" class="blog-img" style="background-image: url(blogfront/images/blog-6.jpg);"></a>
                         <div class="text">
                             <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                             <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>

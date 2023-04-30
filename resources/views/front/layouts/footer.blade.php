@@ -1,4 +1,4 @@
-<div id="colorlib-subscribe" class="subs-img" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+<div id="colorlib-subscribe" class="subs-img" style="background-image: url(blogfront/images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
@@ -85,7 +85,7 @@
             <div class="col-md-3 colorlib-widget">
                 <h4>Recent Post</h4>
                 <div class="f-blog">
-                    <a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
+                    <a href="blog.html" class="blog-img" style="background-image: url(blogfront/images/blog-1.jpg);">
                     </a>
                     <div class="desc">
                         <h2><a href="blog.html">Creating Mobile Apps</a></h2>
@@ -93,7 +93,7 @@
                     </div>
                 </div>
                 <div class="f-blog">
-                    <a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
+                    <a href="blog.html" class="{{'blogfront/blog-img'}}" style="background-image: url(blogfront/images/blog-2.jpg);">
                     </a>
                     <div class="desc">
                         <h2><a href="blog.html">Creating Mobile Apps</a></h2>
@@ -125,26 +125,26 @@
 </div>
 
 <!-- jQuery -->
-<script src="{{asset('front/')}}/js/jquery.min.js"></script>
+<script src="{{asset('blogfront/js/jquery.min.js')}}"></script>
 <!-- jQuery Easing -->
-<script src="{{asset('front/')}}/js/jquery.easing.1.3.js"></script>
+<script src="{{asset('blogfront/js/jquery.easing.1.3.js')}}"></script>
 <!-- Bootstrap -->
-<script src="{{asset('front/')}}/js/bootstrap.min.js"></script>
+<script src="{{asset('blogfront/js/bootstrap.min.js')}}"></script>
 <!-- Waypoints -->
-<script src="{{asset('front/')}}/js/jquery.waypoints.min.js"></script>
+<script src="{{asset('blogfront/js/jquery.waypoints.min.js')}}"></script>
 <!-- Stellar Parallax -->
-<script src="{{asset('front/')}}/js/jquery.stellar.min.js"></script>
+<script src="{{asset('blogfront/js/jquery.stellar.min.js')}}"></script>
 <!-- Flexslider -->
-<script src="{{asset('front/')}}/js/jquery.flexslider-min.js"></script>
+<script src="{{asset('blogfront/js/jquery.flexslider-min.js')}}"></script>
 <!-- Owl carousel -->
-<script src="{{asset('front/')}}/js/owl.carousel.min.js"></script>
+<script src="{{asset('blogfront/js/owl.carousel.min.js')}}"></script>
 <!-- Magnific Popup -->
-<script src="{{asset('front/')}}/js/jquery.magnific-popup.min.js"></script>
-<script src="{{asset('front/')}}/js/magnific-popup-options.js"></script>
+<script src="{{asset('blogfront/js/jquery.magnific-popup.min.js')}}"></script>
+<script src="{{asset('blogfront/js/magnific-popup-options.js')}}"></script>
 <!-- Counters -->
-<script src="{{asset('front/')}}/js/jquery.countTo.js"></script>
+<script src="{{asset('blogfront/js/jquery.countTo.js')}}"></script>
 <!-- Main -->
-<script src="{{asset('front/')}}/js/main.js"></script>
+<script src="{{asset('blogfront/js/main.js')}}"></script>
 
 </body>
 </html>
